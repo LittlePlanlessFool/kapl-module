@@ -30,7 +30,6 @@
         };
 
         functional { // Layer 1
-        display-name = "FN";
         // -------------------------------------
             // |   trans   |    F1     |    F2     |    F3     |    F4     |    F5     |   trans   |           |   trans   |    F6     |    F7     |    F8     |    F9     |    F10    |    F11    |
             // |   trans   |     !     |     @     |     {     |     }     |     |     |   trans   |           |   trans   |    KP_/   |    KP_7   |    KP_8   |    KP_9   |    KP_-   |    F12    |
