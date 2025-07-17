@@ -12,11 +12,11 @@
 #define KPPLS KP_PLUS
 #define KPENT KP_ENTER
 
-#define C_VOL_UP VOLU
-#define C_VOL_DN VOLD
-#define C_MUTE MUTE
-#define C_NEXT NEXT
-#define C_PREV PREV
+#define VOLU C_VOL_UP
+#define VOLD C_VOL_DN
+#define MUTE C_MUTE
+#define NEXT C_NEXT
+#define PREV C_PREV
 
 #define BTC &bt BT_CLR
 #define BTCA &bt BT_CLR_ALL
