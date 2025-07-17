@@ -63,7 +63,7 @@
 
         control { // Layer 2
             // -------------------------------------
-            // |    none   |   BT(1)   |   BT(2)   |   BT(3)   |   BT(4)   |   BT(5)   |   BT(6)   |           |    none   |    none   |    none   |    none   |    none   |    none   |   STUDIO  |
+            // |    none   |    none   |   BT(0)   |   BT(1)   |   BT(2)   |   BT(3)   |   BT(4)   |           |    none   |    none   |    none   |    none   |    none   |    none   |   STUDIO  |
             // |    none   |    none   |    none   |    none   |    none   |   BT_NXT  |    none   |           |    none   |   VOL_UP  |    none   |    none   |    none   |    none   |    none   |
             // |    none   |    none   |    none   | BT_CLR_ALL|   BT_CLR  |   BT_PRV  |    none   |           |    none   |   VOL_DN  | PLAY/PAUSE|    NEXT   |  PREVIOUS |    none   |    none   |
             // |    none   |    none   |    none   |    none   |    none   |    none   |    none   |           |    none   |    MUTE   |    none   |    none   |    none   |    none   |    none   |
