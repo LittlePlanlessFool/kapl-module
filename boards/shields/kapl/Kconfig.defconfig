@@ -1,3 +1,4 @@
+# left side will be treated as central side
 if SHIELD_KAPL_LEFT
 
 config ZMK_KEYBOARD_NAME
